@@ -1,0 +1,9 @@
+streamlit
+pandas
+networkx
+pyvis
+python-louvain
+plotly
+numpy
+scipy
+chardet
